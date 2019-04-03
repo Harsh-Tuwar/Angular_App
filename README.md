@@ -1,4 +1,4 @@
-# Assignment5
+# Angular App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+In order to run this app, first download the directory in your local device.
+Open the app in Visual Studio Code and run npm install to install all the dependencies and then you are all set.
+run the app with ng serve --open.
+
+
+
+The live version of the application can be found on www.angular-app-htuwar.herokuapp.com
