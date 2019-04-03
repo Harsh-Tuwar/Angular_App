@@ -33,4 +33,4 @@ run the app with ng serve --open.
 
 
 
-The live version of the application can be found on www.angular-app-htuwar.herokuapp.com
+The live version of the application can be found on www.angular-app-final.herokuapp.com
